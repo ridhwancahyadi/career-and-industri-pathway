@@ -1,0 +1,6 @@
+{
+  "name": "ACIP Student Career Dashboard",
+  "description": "Student Career and Academic Dashboard customized for S1 Ilmu Komunikasi at Universitas Negeri Surabaya (UNESA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
